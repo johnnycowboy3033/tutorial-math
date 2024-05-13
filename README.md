@@ -75,11 +75,14 @@ This is the tutorial that Aaron Meurer and Ondřej Čertík will be giving at [S
 
 ## SageMath
 
-* [Official Website](https://www.sagemath.org/)    
+* [Official Website](https://www.sagemath.org/)
+
 
 ### Reference 
 * [Intro to SageMath (Sage) - Tutorial for Beginners](https://www.youtube.com/watch?v=Cb2E0bznd-w)
-* [Open Textbook Library - Mathematics - University of Minnesota ](https://open.umn.edu/opentextbooks/subjects/mathematics)     
+* [Open Textbook Library - Mathematics - University of Minnesota ](https://open.umn.edu/opentextbooks/subjects/mathematics)
+* [Sympy -TM Quest - YouTube ](https://www.youtube.com/watch?v=VKOYjemQRqw&list=PLSE7WKf_qqo1T5VV1nqXTj2iNiSpFk72T)
+* [3Blue1Brown - Youtube](https://www.youtube.com/@3blue1brown) 
 
 
 
